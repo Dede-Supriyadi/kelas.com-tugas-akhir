@@ -1,0 +1,16 @@
+Post Barang keluar =>  http://localhost:5000/databarang-keluar
+
+Post Barang Masuk => http://localhost:5000/post-namabarang
+
+Menampilkan seluruh Barang yang di post => http://localhost:5000/get-namabarang
+
+Menampikan data barang melalui id barang => http://localhost:5000/get-namabarang-by-id?id=2
+
+Update nama barang dengan method post => http://localhost:5000/update-namabarang
+
+Update nama barang dengan method put berdasarkan id => http://localhost:5000/update-namabarang/1
+
+Delete nama barang dengan method post => http://localhost:5000/delete-namabarang
+
+Delete nama barang dengan method delete berdasarkan id => http://localhost:5000/delete-namabarang/1
+
